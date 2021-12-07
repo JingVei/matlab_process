@@ -1,6 +1,6 @@
-%Ë¼¿¼ÌâÈý£º¾í»ýº¯Êý
+%Ë¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 function a=my_conv(b,c)
-bs=size(b);
+bs=size(b)ï¼›
 cs=size(c);
 i=any(bs-cs);
 if i
